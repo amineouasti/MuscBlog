@@ -1,0 +1,10 @@
+.container{
+    margin-top: 20px; 
+}
+div.new-title {
+    background-color:#bac5c5; 
+    padding: 2em;
+    background-size: center;
+    background-position: center center;
+}
+.iconify { width: 20px; height: 20px; }
